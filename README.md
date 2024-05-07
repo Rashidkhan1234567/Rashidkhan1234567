@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/rashid khan (online shopping)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashid khan (online shopping)" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram/@_rk_king_1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram/@_rk_king_1_" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100051994561410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashid khan (online shopping)" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_rashid_khan_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram/@_rk_king_1_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@attractivegaming01?si=lkdnlpbuw1h6vthz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@attractivegaming01?si=lkdnlpbuw1h6vthz" height="30" width="40" /></a>
 </p>
 
