@@ -53,6 +53,12 @@
       height="40"
     />
   </a> </p>
+<br>  
+<hr>
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneetsharma5525&theme=juicyfresh" alt="puneetsharma5525" /></a> </p>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidkhan1234567&show_icons=true&locale=en&layout=compact" alt="rashidkhan1234567" /></p>
 
