@@ -26,7 +26,7 @@
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rashidkhan1234567&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br
+![](https://github-profile-trophy.vercel.app/?username=rashidkhan1234567&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100051994561410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashid khan (online shopping)" height="30" width="40" /></a>
