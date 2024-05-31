@@ -21,6 +21,12 @@
 
 - ⚡ Fun fact **I am funny 😋😅**
 
+<br>  
+<hr>
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneetsharma5525&theme=juicyfresh" alt="puneetsharma5525" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100051994561410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashid khan (online shopping)" height="30" width="40" /></a>
@@ -53,11 +59,6 @@
       height="40"
     />
   </a> </p>
-<br>  
-<hr>
-<br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneetsharma5525&theme=juicyfresh" alt="puneetsharma5525" /></a> </p>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidkhan1234567&show_icons=true&locale=en&layout=compact" alt="rashidkhan1234567" /></p>
