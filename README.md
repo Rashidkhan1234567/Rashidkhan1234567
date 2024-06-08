@@ -1,15 +1,20 @@
-<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="Banner of coding" width="1000" height="400" align="top"><br/><br/>
+<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="Banner of coding" width="1000" height="400" align="top"><br/><br/><hr/><br/>
 
 <h1 align="center">Hi 👋, I'm Rashid Khan</h1>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<br/><hr/>
+
 <h3 align="center">A passionate Web Designer and (Grinding For Front-end Developer) from Karachi</h3>
-<br /><br />
+<br />
 <img align="right" width="450" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidkhan1234567&label=Profile%20views&color=0e75b6&style=flat" alt="rashidkhan1234567" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on AWESOME PROJECTS.
+- 🔭 I’m currently working on **AWESOME PROJECTS**.
 
 - 🌱 I’m currently learning **Web and app mobile development.**
 
@@ -41,12 +46,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=rashidkhan1234567&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidkhan1234567&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rashidkhan1234567&theme=great-gatsby&hide_border=false)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rashidkhan1234567&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<br/><hr/><br/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
