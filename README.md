@@ -8,7 +8,7 @@
 
 <h3 align="center">A passionate Web Designer and (Grinding For Front-end Developer) from Karachi</h3>
 <br />
-<img align="right" width="450" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/200.webp?cid=790b7611e2zh87hw6tapmodqibcq4bceusgqvec1adk0qg8e&ep=v1_gifs_search&rid=200.webp&ct=g" alt="Coding">
+<img align="right" width="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENqHmmRXf4eKZsLmSx2E-4odiXy5fLxiLfw&s" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidkhan1234567&label=Profile%20views&color=0e75b6&style=flat" alt="rashidkhan1234567" /> </p>
 
