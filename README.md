@@ -45,11 +45,14 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code></td>
   <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/></code></td>
+   <td><code><img width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Firebase-Dark.svg" alt="Firebase" title="Firebase"/></code></td>
+ <td><code><img width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JQuery.svg" alt="JQuery" title="JQuery"/></code></td>
+ 
 </p>
 
 
-<table>
-<div style="display: flex; align-items: flex-start; align: center">
+Firebase<table>
+<Firebase style="display:style flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
       <td align="center"  width="96">
@@ -64,7 +67,15 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
       <br>Bootstrap
     </td>
-            <td align="center" width="96">
+	  <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+	<td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode
     </td>
@@ -75,19 +86,25 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+      <br>Typescript 
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
     </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      <br>Git
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br>React
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
- 
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="40" height="40" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="40" height="40" />
+      <br>Prettier
+    </td>
  </tr>
 </table>
 <br><br>
