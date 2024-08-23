@@ -51,13 +51,13 @@
 </p>
 
 
-Firebase<table>
+<table>
 <Firebase style="display:style flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
       <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
+      <>HTML5
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
