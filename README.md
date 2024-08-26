@@ -6,7 +6,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <br/><hr/>
 
-<h3 align="center">A passionate Web Designer and (Grinding For Front-end Developer) from Karachi</h3>
+<h3 align="center">A passionate Front-end Developer and (Grinding For Back-end Developer) from Karachi</h3>
 <br />
 <img align="right" width="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENqHmmRXf4eKZsLmSx2E-4odiXy5fLxiLfw&s" alt="Coding">
 
